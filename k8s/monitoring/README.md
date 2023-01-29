@@ -17,4 +17,4 @@
 
 ### 사용한 Stack
 - Resources Monitoring -> nodeExporter, Prometheus, Grafana
-- Applications -> ElasticSearch, Fluentd, Kibana
+- Applications Monitoring -> ElasticSearch, Fluentd, Kibana
