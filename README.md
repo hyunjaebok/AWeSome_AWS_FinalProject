@@ -60,7 +60,7 @@
 </br>
 
 ## 구축 과정
-### - Notion ink(https://www.notion.so/3fa88033033b41aeba4608c7032b14d3)
+### - Notion Link(https://www.notion.so/3fa88033033b41aeba4608c7032b14d3)
 
 </br>
 
