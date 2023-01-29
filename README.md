@@ -61,3 +61,9 @@
 </br>
 
 ### 상세 내용 
+#### - [웹](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
+#### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
+#### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
+#### - [Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
+#### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
+#### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
