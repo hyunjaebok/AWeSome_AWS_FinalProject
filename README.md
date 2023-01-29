@@ -48,6 +48,16 @@
 
 </br>
 
+### 상세 내용 
+#### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
+#### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
+#### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
+#### - [Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
+#### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
+#### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
+
+</br>
+
 ### 담당한 업무
 - **Terraform**을 활용한 AWS 인프라 구축
 - **Dockerfile**을 작성, Cotainer Image 빌드
@@ -57,13 +67,3 @@
 - **Jenkins**와 **Slack**을 연동하여 빌드 알림
 - **ArgoCD**의 무중단 배포 방식을 Blue/Green 구현
 - **Draw.io**를 이용해 Architecture 작성
-
-</br>
-
-### 상세 내용 
-#### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
-#### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
-#### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
-#### - [Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
-#### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
-#### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
