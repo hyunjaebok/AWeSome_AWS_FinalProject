@@ -57,6 +57,10 @@
 ### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
 ### - [비용 절감](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/비용%20절감)
 
+</br>
+
+## 구축 과정
+### - Notion ink(https://www.notion.so/3fa88033033b41aeba4608c7032b14d3)
 
 </br>
 
