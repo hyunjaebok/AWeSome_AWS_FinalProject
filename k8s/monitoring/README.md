@@ -1,17 +1,21 @@
-# Mornitoring
-## Process
+## Mornitoring
+### Monitoring Architecture
 ![mornitoring](https://user-images.githubusercontent.com/59479926/209446258-ddf8b294-4219-429e-b59f-fed45788d4c4.jpg)
----
-### Applications (Kibana)
-![apm](https://user-images.githubusercontent.com/59479926/209428055-8ede0586-3f9d-45d2-8e6a-75202447b8b5.png)
+>- 리소스 모니터링은 Node-Exporter로 메트릭 정보를 수집 → Prometheus TSDB로 전달 → Grafana를 통해 수집된 매트릭을 시각화
+>- Grafana에서 node의 CPU와 메모리 사용률이 일정 수치가 넘으면 slack을 통해 알림
+>- 애플리케이션 모니터링은 fluentd로 로그를 수집 → elasticsearch로 데이터를 보관하고 실시간으로 저장 → kibana를 통해 수집된 로그를 시각화
 
-- Fluentd
-- ElasticSearch
-- Kibana
-----
-### Resources (Grafana)
+</br>
+
+### Grafana Dasbord
 ![grafana](https://user-images.githubusercontent.com/59479926/209428192-f7a6ba1b-2b99-4fb5-a2f8-6cecd68c5f23.png)
 
-- nodeExporter
-- Prometheus
-- Grafana
+### Kibana Dashboard
+![apm](https://user-images.githubusercontent.com/59479926/209428055-8ede0586-3f9d-45d2-8e6a-75202447b8b5.png)
+
+</br>
+
+### 사용한 Stack
+- Resources Monitoring -> nodeExporter, Prometheus, Grafana
+- Applications Monitoring -> ElasticSearch, Fluentd, Kibana
+- Alert -> Slack
