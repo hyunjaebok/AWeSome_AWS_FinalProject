@@ -50,11 +50,11 @@
 
 ## 상세 내용 
 ### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
-### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
+### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
 ### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
+### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
 ### - [Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
 ### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
-### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
 
 </br>
 
