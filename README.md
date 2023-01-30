@@ -7,17 +7,17 @@
      EFK를 활용해 Application Monitoring 구축
      Istio, kiali 통해 서비스매쉬를 구성하고, Network Traffic Monitoring 구축
      Slack 통한 각 서비스 알람 구현
-## 진행 기간
+##  📆 진행 기간
 - 2022.11.14 ~ 2022.12.14
 
 </br>
 
-## 팀 구성
+## 🧑‍🤝‍🧑 팀 구성
 - Front 1명, Backend 1명, CI/CD 1명, Monitoring 1명, IaC 1명
 
 </br>
 
-## 사용 기술
+## 🛠 사용 기술
 #### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 #### OS
@@ -57,7 +57,7 @@
 
 </br>
 
-## 담당한 업무
+## 💁‍♂️ 담당한 업무
 - **Terraform**을 활용한 AWS 인프라 구축
 - **Dockerfile**을 작성, Cotainer Image 빌드
 - 웹 서비스의 **yamlfile**을 작성
@@ -69,7 +69,7 @@
 
 </br>
 
-## 상세 내용 
+## 📖 상세 내용 
 ### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
 ### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
 ### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
@@ -80,7 +80,7 @@
 
 </br>
 
-## 구축 과정
+## 🔗 구축 과정
 ### - Notion Link(https://www.notion.so/3fa88033033b41aeba4608c7032b14d3)
 
 </br>
