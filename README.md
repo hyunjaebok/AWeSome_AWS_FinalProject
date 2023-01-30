@@ -57,6 +57,18 @@
 
 </br>
 
+## 담당한 업무
+- **Terraform**을 활용한 AWS 인프라 구축
+- **Dockerfile**을 작성, Cotainer Image 빌드
+- 웹 서비스의 **yamlfile**을 작성
+- **Jenkins Pipeline**를 통한 CI 자동화
+- **ArgoCD**를 통한 CD 자동화
+- **Jenkins**와 **Slack**을 연동하여 빌드 알림
+- **ArgoCD**의 무중단 배포 방식을 Blue/Green 구현
+- **Draw.io**를 이용해 Architecture 작성
+
+</br>
+
 ## 상세 내용 
 ### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
 ### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
@@ -70,15 +82,3 @@
 
 ## 구축 과정
 ### - Notion Link(https://www.notion.so/3fa88033033b41aeba4608c7032b14d3)
-
-</br>
-
-## 담당한 업무
-- **Terraform**을 활용한 AWS 인프라 구축
-- **Dockerfile**을 작성, Cotainer Image 빌드
-- 웹 서비스의 **yamlfile**을 작성
-- **Jenkins Pipeline**를 통한 CI 자동화
-- **ArgoCD**를 통한 CD 자동화
-- **Jenkins**와 **Slack**을 연동하여 빌드 알림
-- **ArgoCD**의 무중단 배포 방식을 Blue/Green 구현
-- **Draw.io**를 이용해 Architecture 작성
