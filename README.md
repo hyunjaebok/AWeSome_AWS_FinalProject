@@ -43,6 +43,11 @@
 <img src="https://img.shields.io/badge/kiali-466BB0?style=flat-square&logo=kiali&logoColor=white"> <!--kiali-->
 #### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"> <!--Terraform-->
+#### IDE
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> <!--VSCode-->
+#### Framework
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"> <!--Vue.js-->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <!--Spring-->
 #### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <!--Git-->
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> <!--Github-->
