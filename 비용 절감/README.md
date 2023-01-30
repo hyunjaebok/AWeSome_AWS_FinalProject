@@ -22,4 +22,4 @@
 
 ---
 
-### [👈 Go back 👈](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject)
+### [👈 Go back](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject)
