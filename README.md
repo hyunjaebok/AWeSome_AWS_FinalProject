@@ -5,7 +5,7 @@
      Jenkins, ArgoCD를 활용해 CI/CD 자동화
      Prometheus, Grafana를 활용해 Resources Monitoring 구축
      EFK를 활용해 Application Monitoring 구축
-     Istio, kiali을 통해 서비스매쉬를 구성하고, Network Traffic Monitoring 구축
+     Istio, kiali 통해 서비스매쉬를 구성하고, Network Traffic Monitoring 구축
      Slack 통한 각 서비스 알람 구현
 ## 진행 기간
 - 2022.11.14 ~ 2022.12.14
