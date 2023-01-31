@@ -13,7 +13,7 @@
 </br>
 
 ## 🧑‍🤝‍🧑 팀 구성
-- Front 1명, Backend 1명, CI/CD 1명, Monitoring 1명, IaC 1명
+- Front 1명, Backend 1명, CI/CD 1명, Monitoring & Infra 구축 2명
 
 </br>
 
