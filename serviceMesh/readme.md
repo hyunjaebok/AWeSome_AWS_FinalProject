@@ -6,7 +6,7 @@
 </br>
 
 ### 사용한 Stack
-- Istio, kiali, jaeger
+- Istio, kiali
 
 </br>
 
