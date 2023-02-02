@@ -9,13 +9,19 @@
 
 </br>
 
+
+</br>
+
+#### Blue-Green 시연 영상
+![Blue-Green](https://user-images.githubusercontent.com/110655823/216240624-8f7593a0-d127-460f-89b0-d2a7369935c9.gif)
+
+</br>
+
 ### 사용한 Stack
 - CI -> Jenkins
 - CD -> ArgoCD
 - Alert -> Slack
 - Container Repo -> Amazon ECR
-
-</br>
 
 ---
 
