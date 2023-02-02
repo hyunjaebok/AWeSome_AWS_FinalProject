@@ -6,6 +6,14 @@
 
 </br>
 
+#### CA 시연 영상
+![CA](https://user-images.githubusercontent.com/110655823/216240173-76c821e5-6ad3-4797-8d26-b7a280226ece.gif)
+
+#### HPA 시연 영상
+![HPA](https://user-images.githubusercontent.com/110655823/216240217-1f1ada85-5c0f-488d-8359-2806268ab3e4.gif)
+
+</br>
+
 ### 사용한 Stack
 - AWS EKS
 
