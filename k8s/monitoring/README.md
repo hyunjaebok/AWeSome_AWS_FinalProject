@@ -9,9 +9,15 @@
 
 ### Grafana Dasbord
 ![grafana](https://user-images.githubusercontent.com/59479926/209428192-f7a6ba1b-2b99-4fb5-a2f8-6cecd68c5f23.png)
+> - Node의 수, CPU, Memory Monitoring
+> - Pod의 수, CPU, Memory Monitoring
 
 ### Kibana Dashboard
-![apm](https://user-images.githubusercontent.com/59479926/209428055-8ede0586-3f9d-45d2-8e6a-75202447b8b5.png)
+![Kibana](https://user-images.githubusercontent.com/59479926/209428055-8ede0586-3f9d-45d2-8e6a-75202447b8b5.png)
+> - Frontend의 총 Log 수, HTTP 상태 코드 종류별 수 시각화
+> - Backend의 총 Log 수, HTTP 상태 코드 종류별 수 시각화
+> - HTTP 프로토콜의 Method별 수
+> - api 종류별 수
 
 </br>
 
