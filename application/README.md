@@ -19,7 +19,7 @@
 ### 사용한 Stack
 - Springboot
 - Java
-- Vue
+- Vue.js
 - Axios
 
 </br>
