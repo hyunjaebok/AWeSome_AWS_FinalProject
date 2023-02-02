@@ -5,6 +5,7 @@
 > - 관리자는 bastion을 통해 k8s mgnt로 접속하여 EKS를 관리, route53에 등록된 DNS를 통해 CI/CD와 monitoring 서버 관리
 > - 고객은 route53에 등록된 도메인을 통해 웹 서비스 이용
 > - AWS Infra를 Terraform으로 구축
+> - RDS 이중화 구성
 
 </br>
 
