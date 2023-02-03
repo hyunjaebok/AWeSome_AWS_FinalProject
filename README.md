@@ -27,7 +27,6 @@
 #### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <!--Docker-->
 #### Container Orchestration
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"> <!--K8S-->
 <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat-square&logo=Amazon EKS&logoColor=white"> <!--Amazon EKS-->
 #### CI/CD
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"> <!--Jenkins-->
