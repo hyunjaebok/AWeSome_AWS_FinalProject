@@ -14,14 +14,20 @@
 
 #### Blue-Green 시연 영상
 ![Blue-Green](https://user-images.githubusercontent.com/110655823/216240624-8f7593a0-d127-460f-89b0-d2a7369935c9.gif)
+> - Jenkins 빌드를 실행 후 Slack을 통해 스테이지 결과 확인
+> - ArgoCD에서 신 버전의 웹 서비스 두 개가 생성 후 활성화가 되면 구 버전의 웹 서비스 두 개가 제거 확인
 
 </br>
 
 ### 사용한 Stack
-- CI -> Jenkins
-- CD -> ArgoCD
-- Alert -> Slack
-- Container Repo -> Amazon ECR
+- CI
+  - Jenkins
+- CD
+  - ArgoCD
+- Alert
+  - Slack
+- Container Repo
+  - Amazon ECR
 
 ---
 
