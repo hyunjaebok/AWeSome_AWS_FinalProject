@@ -22,9 +22,16 @@
 </br>
 
 ### 사용한 Stack
-- Resources Monitoring -> nodeExporter, Prometheus, Grafana
-- Applications Monitoring -> ElasticSearch, Fluentd, Kibana
-- Alert -> Slack
+- Resources Monitoring
+  - nodeExporter
+  - Prometheus
+  - Grafana
+- Applications Monitoring
+  - ElasticSearch
+    - Fluentd
+    - Kibana
+- Alert
+  - Slack
 
 </br>
 
