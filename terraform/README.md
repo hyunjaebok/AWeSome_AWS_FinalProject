@@ -18,11 +18,11 @@
   - EC2
   - RDS
   - ALB
-  - AS
+  - AutoScaling
   - S3
   - EKS
   - ECR
-  - ACM, 
+  - ACM
   - Route53
 - IaC
   - Terrafrom
