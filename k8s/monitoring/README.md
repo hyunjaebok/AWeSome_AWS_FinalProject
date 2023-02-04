@@ -28,8 +28,8 @@
   - Grafana
 - Applications Monitoring
   - ElasticSearch
-    - Fluentd
-    - Kibana
+  - Fluentd
+  - Kibana
 - Alert
   - Slack
 
