@@ -18,7 +18,7 @@
   - EC2
   - RDS
   - ALB
-  - AutoScaling
+  - EC2 AutoScaling
   - S3
   - EKS
   - ECR
