@@ -23,7 +23,7 @@
 
 ### 결과
 ![웹 캡처_30-1-2023_6139_s3 us-west-2 amazonaws com](https://user-images.githubusercontent.com/110655823/215355476-7a18775c-93e2-48cf-951c-1a153535ff69.jpeg)
-> - AWS Service보다 Open Source를 사용하여, 48.1%의 비용 절감
+> - AWS Service보다 Open Source를 사용하여, 최소 48.1%의 비용 절감
 
 </br>
 
