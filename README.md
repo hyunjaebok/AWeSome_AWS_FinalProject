@@ -70,18 +70,18 @@
 </br>
 
 ## 📖 상세 내용 
-### - [Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
-### - [Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
-### - [Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
-### - [CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
-### - [Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
-### - [ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
-### - [비용 절감](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/비용%20절감)
+### [- Web Service](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
+### [- Terraform](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
+### [- Kubernetes](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s)
+### [- CI/CD](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/jenkins)
+### [- Monitoring](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/k8s/monitoring)
+### [- ServiceMesh](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/serviceMesh)
+### [- 비용 절감](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/비용%20절감)
 
 </br>
 
 ## 🔗 구축 과정
-### - [Notion Link](https://awesome-bottle-5fa.notion.site/3fa88033033b41aeba4608c7032b14d3)
+### [- Notion Link](https://awesome-bottle-5fa.notion.site/3fa88033033b41aeba4608c7032b14d3)
 
 </br>
 
