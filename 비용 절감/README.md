@@ -2,7 +2,6 @@
 
 ### 결과
 ![웹 캡처_30-1-2023_6139_s3 us-west-2 amazonaws com](https://user-images.githubusercontent.com/110655823/215355476-7a18775c-93e2-48cf-951c-1a153535ff69.jpeg)
-> - 48.1%의 큰 비용 절감
 
 </br>
 
