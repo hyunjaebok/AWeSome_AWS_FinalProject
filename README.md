@@ -81,7 +81,7 @@
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://awesome-bottle-5fa.notion.site/3fa88033033b41aeba4608c7032b14d3)
+### - [Notion Link](https://awesome-bottle-5fa.notion.site/3fa88033033b41aeba4608c7032b14d3)
 
 </br>
 
