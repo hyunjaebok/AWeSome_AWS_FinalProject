@@ -1,5 +1,5 @@
 # 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
-     Vue.js, Spring응 뢀용한 숙박예약 웹 서비스 개발
+     Vue.js, Spring을 활용해 숙박예약 웹 서비스 개발
      Terraform을 활용해 AWS 기반 Infra 구축
      EKS를 활용해 웹 서비스 배포
      Jenkins, ArgoCD를 활용해 CI/CD 자동화
